@@ -18,7 +18,7 @@ typedef struct {
   double x, y, z;
   double mass;
 } Particle;
-
+//Agregando un comentario
 /* Save the forces and old velocities */
 typedef struct {
   double xold, yold, zold;
